@@ -2,7 +2,7 @@ services:
 
   waha:
     image: devlikeapro/waha:latest
-    container_name: wpp_bot_kaua
+    container_name: wpp_bot_teste
     restart: always
 
     ports:
